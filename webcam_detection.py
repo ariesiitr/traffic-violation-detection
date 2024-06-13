@@ -14,9 +14,7 @@ num_classes     = 80
 input_size      = 416
 graph           = tf.Graph()
 return_tensors  = utils.read_pb_return_tensors(graph, pb_file, return_elements)
-
 vid = cv2.VideoCapture(video_path)
-
 def detection(vid):
     with tf.Session(graph=graph) as sess:
 
@@ -58,8 +56,6 @@ def detection(vid):
                 if int(detected[j][5]) == i: obj_count += 1
 
             class_count = np.append(class_count, obj_count)
-
-
 
         curr_time = time.time()
         exec_time = curr_time - prev_time
