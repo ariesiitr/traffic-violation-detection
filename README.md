@@ -6,8 +6,7 @@
 
 ## Mentors
 
-### [Pranjal Mangal](https://github.com/mangalpranjal)
-### [Maanas Verma](https://github.com/Maanas-Verma)
+ [Pranav Arya](https://github.com/pranav-iitr)
 
 ## Contributors 
 
@@ -15,7 +14,6 @@
 ### [Riya Jindal](https://github.com/riyaaaa123)
 ### [Ishika Arya](https://github.com/I-shika)
 ### [Rishika Pilania](https://github.com/rishu-3619)
-### [Pranav Arya](https://github.com/pranav-iitr)
 <br/>
 
 ## Technology used
